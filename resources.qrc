@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/sun.png</file>
+        <file>images/pea-shooter.gif</file>
+        <file>images/pea-shooter.png</file>
+        <file>images/cherry-bomb.png</file>
+        <file>images/chomper.png</file>
+        <file>images/potato-mine.png</file>
+        <file>images/repeater.png</file>
+        <file>images/snow-pea.png</file>
+        <file>images/sunflower.png</file>
+        <file>images/wallnut.png</file>
+        <file>images/cherry-bomb.gif</file>
+        <file>images/chomper.gif</file>
+        <file>images/chomper-eating.gif</file>
+        <file>images/potato-mine-active.gif</file>
+        <file>images/potato-mine-inactive.gif</file>
+        <file>images/repeater.gif</file>
+        <file>images/snow-pea.gif</file>
+        <file>images/sunflower.gif</file>
+        <file>images/wallnut.gif</file>
+        <file>images/cherry-bomb-explosian.gif</file>
+        <file>images/pea-shooter-button.jpg</file>
+        <file>images/sunflower-button.jpg</file>
+        <file>images/cherry-bomb-button.jpg</file>
+        <file>images/chomper-button.jpg</file>
+        <file>images/potato-mine-button.jpg</file>
+        <file>images/repeater-button.jpg</file>
+        <file>images/snow-pea-button.jpg</file>
+        <file>images/wallnut-button.jpg</file>
+        <file>images/bucket-head-zombie.gif</file>
+        <file>images/cone-head-zombie.gif</file>
+        <file>images/flag-zombie.gif</file>
+        <file>images/newspaper-zombie.gif</file>
+        <file>images/normal-zombie.gif</file>
+        <file>images/pea-shooter-bullet.png</file>
+        <file>images/snow-pea-bullet.png</file>
+        <file>images/lawn-mower.png</file>
+        <file>images/dirt-row.png</file>
+        <file>images/grass-row.png</file>
+        <file>images/grass-row-alt.png</file>
+    </qresource>
+</RCC>
